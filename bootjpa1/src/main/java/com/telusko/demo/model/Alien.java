@@ -1,5 +1,7 @@
 package com.telusko.demo.model;
-
+/*
+ * @Author Arsene
+ */
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
